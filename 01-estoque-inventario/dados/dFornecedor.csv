@@ -1,0 +1,9 @@
+fornecedor_id,fornecedor,lead_time_planejado,taxa_atraso_esperada
+FOR01,Fornecedor Alfa,5,0.08
+FOR02,Fornecedor Beta,7,0.15
+FOR03,Fornecedor Gama,8,0.1
+FOR04,Fornecedor Delta,10,0.2
+FOR05,Fornecedor Épsilon,12,0.12
+FOR06,Fornecedor Zeta,14,0.3
+FOR07,Fornecedor Eta,6,0.06
+FOR08,Fornecedor Teta,9,0.18
